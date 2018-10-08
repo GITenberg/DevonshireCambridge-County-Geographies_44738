@@ -30,5 +30,6 @@ series_note: Cambridge County Geographies
 subjects:
 - !lcc 'DA'
 - !lcsh 'Devon (England)'
+- GITenberg
 title: Devonshire
 url: http://www.gutenberg.org/ebooks/44738
